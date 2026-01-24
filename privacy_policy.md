@@ -22,4 +22,4 @@ GemList ("we", "our", or "us") is committed to protecting your privacy. This Pri
 
 4. Data Retention Since data is stored locally, you have full control over it. You can clear the extension's data at any time by uninstalling the extension or clearing your browser's local storage.
 
-5. Contact Us If you have any questions about this Privacy Policy, please contact us at:  gemlist@kimfull.com
+5. Contact Us If you have any questions about this Privacy Policy, please contact us at:  GemList@kimfull.com
