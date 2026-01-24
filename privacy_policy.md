@@ -6,17 +6,17 @@ GemList ("we", "our", or "us") is committed to protecting your privacy. This Pri
 
 1. Data Collection and Usage GemList is designed with a "Privacy-First" architecture.
 
-No Server Transmission: We do not transmit your data to any external servers.
+- No Server Transmission: We do not transmit your data to any external servers.
 
-Local Storage: All data generated or processed by the extension, including chat history caches, pinned items, and Gem sort orders, is stored locally on your device using Chrome's Local Storage API.
+- Local Storage: All data generated or processed by the extension, including chat history caches, pinned items, and Gem sort orders, is stored locally on your device using Chrome's Local Storage API.
 
-Direct Interaction: The extension interacts directly with the DOM of gemini.google.com solely to provide the sidebar functionality (Table of Contents, Gems Management).
+- Direct Interaction: The extension interacts directly with the DOM of gemini.google.com solely to provide the sidebar functionality (Table of Contents, Gems Management).
 
 2. Permissions
 
-Host Permissions (gemini.google.com): Used strictly to read the chat titles and content to generate the sidebar outline. This data remains on your device.
+- Host Permissions (gemini.google.com): Used strictly to read the chat titles and content to generate the sidebar outline. This data remains on your device.
 
-Storage / UnlimitedStorage: Used to save your preferences and chat history snapshots locally on your browser.
+- Storage / UnlimitedStorage: Used to save your preferences and chat history snapshots locally on your browser.
 
 3. Third-Party Services We do not use any third-party analytics or tracking tools that collect user data.
 
