@@ -1,4 +1,4 @@
-Privacy Policy for GemList
+# Privacy Policy for GemList
 
 Last Updated: 2026-01-25
 
