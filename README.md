@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="#-english">🇬🇧 en English</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#-繁體中文">🇹🇼 繁體中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="CHANGELOG.md">📝 Changelog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy_policy.md">🔒 Privacy Policy</a>
+  <a href="#en-english">en English</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#zh-繁體中文">zh 繁體中文</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="CHANGELOG.md">📝 Changelog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy_policy.md">🔒 Privacy Policy</a>
 </p>
 
 ---
 
-## 🇬🇧 English
+## en English
 
 ### 🚀 What is GemList?
 
@@ -100,7 +100,7 @@ GemList is privacy-first by design. All data processing happens entirely on your
 
 ---
 
-## 🇹🇼 繁體中文
+## zh 繁體中文
 
 ### 🚀 GemList 是什麼？
 

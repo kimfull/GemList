@@ -3,11 +3,11 @@
 All notable changes to **GemList** will be documented in this file.
 **GemList** 所有值得關注的版本更新都會記錄在這裡。
 
-[🇬🇧 en English](#english) | [🇹🇼 繁體中文](#繁體中文)
+[en English](#en-english) | [zh 繁體中文](#zh-繁體中文)
 
 ---
 
-## English
+## en English
 
 ### [v0.9.165] - 2026-03-11
 
@@ -28,7 +28,7 @@ All notable changes to **GemList** will be documented in this file.
 
 ---
 
-## 繁體中文
+## zh 繁體中文
 
 ### [v0.9.165] - 2026-03-11
 
